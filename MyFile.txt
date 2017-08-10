@@ -1,1 +1,2 @@
 MyFile.txt has something in it.
+In the next version of the file I added this line.
